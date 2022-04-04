@@ -1,0 +1,11 @@
+ilk başta Magaza.txt adlı dosyayı c diskine atınız 
+sonra databaseleri attack ediniz sonra MagazaV1.msi i kurunuz
+
+
+Kullanıcı adı: a
+Şifre:a
+
+adminin ayrıcalıkları vardır.
+Kullanıcı adı: admin	
+Şifre:admin
+
